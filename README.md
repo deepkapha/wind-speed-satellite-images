@@ -36,6 +36,9 @@ The code uses the following libraries and frameworks:
 
 4. python library : pathlib, os, pandas, numpy, PIL, seaborn, matplotlib, cv2
 
+5. the datasets are here: https://drive.google.com/drive/folders/1SXjabKRFmVq-iI5Qe1fyDQgM5B15HBCX?usp=sharing
+
+
 # Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
